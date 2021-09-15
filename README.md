@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roo (Rohith)
 - 👀 I’m interested in computer networking and automating the same
 - 🌱 I’m currently preparing for CCNA DevNet Course 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..yet to decide..
 - 📫 How to reach me nrohith27@gmail.com
 
 <!---
