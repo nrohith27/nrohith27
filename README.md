@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nrohith27
+- 👋 Hi, I’m Roo (Rohith)
 - 👀 I’m interested in computer networking and automating the same
 - 🌱 I’m currently preparing for CCNA DevNet Course 
 - 💞️ I’m looking to collaborate on ...
